@@ -1,1 +1,51 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+    background-color: #f6f8fa;
+}
 
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #0366d6;
+}
+
+p {
+    color: #586069;
+}
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.repo-list {
+    list-style: none;
+    padding: 0;
+}
+
+.repo-list-item {
+    margin: 10px 0;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #0366d6;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
